@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <div style={{display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center",marginTop:"0px"}}>
-        <h2 style={{fontFamily:"sans-serif",fontSize:"50px",fontWeight:"600"}}>Workfl Automation in Software Engineering</h2>
+        <h2 style={{fontFamily:"sans-serif",fontSize:"50px",fontWeight:"600"}}>Work Automation in Software Engineering</h2>
         </div>
       </main>
     </>
